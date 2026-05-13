@@ -147,7 +147,7 @@ This repository **does not include** `google-services.json` for security reasons
 **Govinda Bist**
 - BSc (Hons) Computer Systems Engineering — University of Sunderland (UK), 2023
 - Based in Kathmandu, Nepal
-- GitHub: [your username]
+- GitHub: [Govinda585](https://github.com/Govinda585)
 
 ## License
 
